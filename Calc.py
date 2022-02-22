@@ -75,12 +75,3 @@ def Calc():
             
 isFinish = False
 Calc()
-
-
-        
-
-
-
-    
-
-
